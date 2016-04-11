@@ -1,5 +1,5 @@
 # Source directory
-MP3DIR = ./libmad
+MP3DIR = libmad
 
 # Source files
 MP3SRC = $(MP3DIR)/src/bit.c \

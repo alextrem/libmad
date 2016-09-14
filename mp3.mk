@@ -14,7 +14,7 @@ MP3SRC = $(MP3DIR)/src/bit.c \
          $(MP3DIR)/src/timer.c \
          $(MP3DIR)/src/version.c
 
-
+# Include directory
 MP3INC = $(MP3DIR)/inc
 
 vpath %.c src
